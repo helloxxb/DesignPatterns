@@ -1,0 +1,16 @@
+{
+    "name": "php/design-patterns",
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "ext-dom": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "Creational",
+            "Structural",
+            "Behavioral",
+            "More"
+        ]
+    }
+}
